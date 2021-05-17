@@ -1,1 +1,0 @@
-document.write('<iframe src="http://ir1.sitekodlari.com/i1.php" scrolling="no" frameBorder="0" width="108" height="18"></iframe>');
